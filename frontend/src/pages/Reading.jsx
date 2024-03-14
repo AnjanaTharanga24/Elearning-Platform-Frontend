@@ -487,10 +487,10 @@ export default function Reading() {
   
   
     {/*  Page Title Area Start*/}
-    <section className="page-title-area position-relative">
+    <section className="">
     <div className="container">
       <div className="main-max-width">
-        <div className="page-title-content" style={{marginRight:"1300px"}}>
+        {/* <div className="page-title-content" style={{marginRight:"1300px"}}>
           <h2>Reading</h2>
           <ul className="page-breadcrumb align-items-center list-unstyle ">
             <li className="breadcrumb-item">
@@ -508,7 +508,10 @@ export default function Reading() {
           <div className="shape-3 bounce">
             <img src="assets/img/icon/section-icon-2.svg" alt="image" />
           </div>
-        </div>
+        </div> */}
+
+<img src="assets/img/all-img/writing2.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
+
       </div>
     </div>
   </section>
@@ -532,7 +535,7 @@ export default function Reading() {
                     <img src="assets/img/all-img/blog-1.png" alt="image" />
                   </a>
                   <div className="cr-tag">
-                    <a href="author.html">Design</a>
+                    <a href="author.html">A1 Reading</a>
                   </div>
                   <div className="author">
                     <a href="author.html">
