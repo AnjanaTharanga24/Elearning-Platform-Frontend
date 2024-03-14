@@ -510,7 +510,7 @@ export default function Reading() {
           </div>
         </div> */}
 
-<img src="assets/img/all-img/writing2.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
+<img src="assets/img/all-img/reading1.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
 
       </div>
     </div>
@@ -532,17 +532,17 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-1.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
-                    <a href="author.html">A1 Reading</a>
-                  </div>
-                  <div className="author">
+                  {/* <div className="cr-tag">
+                    <a href="author.html">Design</a>
+                   </div>  */}
+                   {/* <div className="author">
                     <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
+                      <img src="assets/img/all-img/reading1.jpg" alt="image" />
+                      <span>Lesson 1</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -570,17 +570,17 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-2.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
+                  </div> */}
+                  {/* <div className="author">
                     <a href="author.html">
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -608,17 +608,17 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-3.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
+                  </div> */}
+                  {/* <div className="author">
                     <a href="author.html">
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -646,9 +646,9 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-4.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
                   <div className="author">
@@ -656,7 +656,7 @@ export default function Reading() {
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -684,9 +684,9 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-5.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
                   <div className="author">
@@ -694,7 +694,7 @@ export default function Reading() {
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -722,9 +722,9 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-6.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
                   <div className="author">
@@ -732,7 +732,7 @@ export default function Reading() {
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
