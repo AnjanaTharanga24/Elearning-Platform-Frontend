@@ -514,15 +514,131 @@ export default function Writing() {
                   <a href="blog-details.html">
                     <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
-                  <div className="cr-tag">
-                    <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
-                    <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
+                 
+                  
+                </div>
+                <div className="content">
+                  <ul className="cr-items d-flex list-unstyle">
+                    <li className="mr-20">
+                      <a href="author.html">
+                        <i className="ri-chat-1-line" />
+                        <span>54 Message</span>
+                      </a>
+                    </li>
+                    <li>
+                      <i className="ri-calendar-2-line" />
+                      <span>31 December 2023</span>
+                    </li>
+                  </ul>
+                  <h3 className="mb-15 fs-20">
+                    <a href="blog-details.html">
+                      Business modeless and pricing strategies are essential.
                     </a>
-                  </div>
+                  </h3>
+                  <p>This immersive course is crafted to provide participants</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-blog-box">
+                <div className="image position-relative">
+                  <a href="blog-details.html">
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
+                  </a>
+                 
+                 
+                </div>
+                <div className="content">
+                  <ul className="cr-items d-flex list-unstyle">
+                    <li className="mr-20">
+                      <a href="author.html">
+                        <i className="ri-chat-1-line" />
+                        <span>54 Message</span>
+                      </a>
+                    </li>
+                    <li>
+                      <i className="ri-calendar-2-line" />
+                      <span>31 December 2023</span>
+                    </li>
+                  </ul>
+                  <h3 className="mb-15 fs-20">
+                    <a href="blog-details.html">
+                      Business modeless and pricing strategies are essential.
+                    </a>
+                  </h3>
+                  <p>This immersive course is crafted to provide participants</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-blog-box">
+                <div className="image position-relative">
+                  <a href="blog-details.html">
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
+                  </a>
+                 
+                </div>
+                <div className="content">
+                  <ul className="cr-items d-flex list-unstyle">
+                    <li className="mr-20">
+                      <a href="author.html">
+                        <i className="ri-chat-1-line" />
+                        <span>54 Message</span>
+                      </a>
+                    </li>
+                    <li>
+                      <i className="ri-calendar-2-line" />
+                      <span>31 December 2023</span>
+                    </li>
+                  </ul>
+                  <h3 className="mb-15 fs-20">
+                    <a href="blog-details.html">
+                      Business modeless and pricing strategies are essential.
+                    </a>
+                  </h3>
+                  <p>This immersive course is crafted to provide participants</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-blog-box">
+                <div className="image position-relative">
+                  <a href="blog-details.html">
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
+                  </a>
+                  
+                 
+                </div>
+                <div className="content">
+                  <ul className="cr-items d-flex list-unstyle">
+                    <li className="mr-20">
+                      <a href="author.html">
+                        <i className="ri-chat-1-line" />
+                        <span>54 Message</span>
+                      </a>
+                    </li>
+                    <li>
+                      <i className="ri-calendar-2-line" />
+                      <span>31 December 2023</span>
+                    </li>
+                  </ul>
+                  <h3 className="mb-15 fs-20">
+                    <a href="blog-details.html">
+                      Business modeless and pricing strategies are essential.
+                    </a>
+                  </h3>
+                  <p>This immersive course is crafted to provide participants</p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-blog-box">
+                <div className="image position-relative">
+                  <a href="blog-details.html">
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
+                  </a>
+                 
+                 
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -555,164 +671,7 @@ export default function Writing() {
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
-                  <div className="author">
-                    <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
-                    </a>
-                  </div>
-                </div>
-                <div className="content">
-                  <ul className="cr-items d-flex list-unstyle">
-                    <li className="mr-20">
-                      <a href="author.html">
-                        <i className="ri-chat-1-line" />
-                        <span>54 Message</span>
-                      </a>
-                    </li>
-                    <li>
-                      <i className="ri-calendar-2-line" />
-                      <span>31 December 2023</span>
-                    </li>
-                  </ul>
-                  <h3 className="mb-15 fs-20">
-                    <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
-                    </a>
-                  </h3>
-                  <p>This immersive course is crafted to provide participants</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-blog-box">
-                <div className="image position-relative">
-                  <a href="blog-details.html">
-                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
-                  </a>
-                  <div className="cr-tag">
-                    <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
-                    <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
-                    </a>
-                  </div>
-                </div>
-                <div className="content">
-                  <ul className="cr-items d-flex list-unstyle">
-                    <li className="mr-20">
-                      <a href="author.html">
-                        <i className="ri-chat-1-line" />
-                        <span>54 Message</span>
-                      </a>
-                    </li>
-                    <li>
-                      <i className="ri-calendar-2-line" />
-                      <span>31 December 2023</span>
-                    </li>
-                  </ul>
-                  <h3 className="mb-15 fs-20">
-                    <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
-                    </a>
-                  </h3>
-                  <p>This immersive course is crafted to provide participants</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-blog-box">
-                <div className="image position-relative">
-                  <a href="blog-details.html">
-                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
-                  </a>
-                  <div className="cr-tag">
-                    <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
-                    <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
-                    </a>
-                  </div>
-                </div>
-                <div className="content">
-                  <ul className="cr-items d-flex list-unstyle">
-                    <li className="mr-20">
-                      <a href="author.html">
-                        <i className="ri-chat-1-line" />
-                        <span>54 Message</span>
-                      </a>
-                    </li>
-                    <li>
-                      <i className="ri-calendar-2-line" />
-                      <span>31 December 2023</span>
-                    </li>
-                  </ul>
-                  <h3 className="mb-15 fs-20">
-                    <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
-                    </a>
-                  </h3>
-                  <p>This immersive course is crafted to provide participants</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-blog-box">
-                <div className="image position-relative">
-                  <a href="blog-details.html">
-                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
-                  </a>
-                  <div className="cr-tag">
-                    <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
-                    <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
-                    </a>
-                  </div>
-                </div>
-                <div className="content">
-                  <ul className="cr-items d-flex list-unstyle">
-                    <li className="mr-20">
-                      <a href="author.html">
-                        <i className="ri-chat-1-line" />
-                        <span>54 Message</span>
-                      </a>
-                    </li>
-                    <li>
-                      <i className="ri-calendar-2-line" />
-                      <span>31 December 2023</span>
-                    </li>
-                  </ul>
-                  <h3 className="mb-15 fs-20">
-                    <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
-                    </a>
-                  </h3>
-                  <p>This immersive course is crafted to provide participants</p>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-blog-box">
-                <div className="image position-relative">
-                  <a href="blog-details.html">
-                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
-                  </a>
-                  <div className="cr-tag">
-                    <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
-                    <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
-                    </a>
-                  </div>
+                  
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
