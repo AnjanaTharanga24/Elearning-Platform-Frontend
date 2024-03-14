@@ -512,7 +512,7 @@ export default function Writing() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-1.png" alt="image" />
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -550,7 +550,7 @@ export default function Writing() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-2.png" alt="image" />
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -588,7 +588,7 @@ export default function Writing() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-3.png" alt="image" />
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -626,7 +626,7 @@ export default function Writing() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-4.png" alt="image" />
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -664,7 +664,7 @@ export default function Writing() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-5.png" alt="image" />
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -702,7 +702,7 @@ export default function Writing() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-6.png" alt="image" />
+                    <img src="assets/img/all-img/writing3.jpg" alt="image" />
                   </a>
                   <div className="cr-tag">
                     <a href="author.html">Design</a>
