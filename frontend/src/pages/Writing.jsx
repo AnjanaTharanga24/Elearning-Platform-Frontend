@@ -487,28 +487,11 @@ export default function Writing() {
   
   
     {/*  Page Title Area Start*/}
-    <section className="page-title-area position-relative">
-    <div className="container">
-      <div className="main-max-width">
-        <div className="page-title-content" style={{marginRight:"1300px"}}>
-          <h2>Writing</h2>
-          <ul className="page-breadcrumb align-items-center list-unstyle ">
-            <li className="breadcrumb-item">
-              <a href="index.html">Home</a>
-            </li>
-            <li className="breadcrumb-item" />
-            <li className="primery-link">Blog</li>
-          </ul>
-          <div className="shape-1 moveHorizontal">
-            <img src="assets/img/icon/shape-2.svg" alt="image" />
-          </div>
-          <div className="shape-2">
-            <img src="assets/img/icon/section-icon-1.svg" alt="image" />
-          </div>
-          <div className="shape-3 bounce">
-            <img src="assets/img/icon/section-icon-2.svg" alt="image" />
-          </div>
-        </div>
+    <section className="">
+    <div className="">
+      <div className="main-max-width mt-5">
+      <img src="assets/img/all-img/writing2.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
+
       </div>
     </div>
   </section>

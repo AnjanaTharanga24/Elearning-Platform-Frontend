@@ -529,7 +529,7 @@ export default function Listening() {
             <div className="single-blog-box">
               <div className="image position-relative">
                 <a href="blog-details.html">
-                  <img src="assets/img/all-img/blog-1.png" alt="image" />
+                  <img src="assets/img/all-img/blog-1.jpeg" alt="image" />
                 </a>
                 <div className="cr-tag">
                   <a href="author.html">Design</a>
