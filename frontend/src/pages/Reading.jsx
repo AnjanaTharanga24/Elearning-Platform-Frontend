@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Reading() {
   return (
@@ -162,45 +163,49 @@ export default function Reading() {
                   </ul>
                 </li>
                 <li className="nav-item">
-                  <a
-                    href="javascript:void(0)"
-                    className="dropdown-toggle nav-link"
-                  >
-                    Shop
-                  </a>
-                  <ul className="dropdown-menu list-unstyle">
-                    <li className="nav-item">
-                      <a href="shop.html" className="nav-link">
-                        Shop
-                      </a>
-                    </li>
-                    <li className="nav-item">
-                      <a href="shop-filtter.html" className="nav-link">
-                        Shop Sidebar
-                      </a>
-                    </li>
-                    <li className="nav-item">
-                      <a href="single-product.html" className="nav-link">
-                        Product Details
-                      </a>
-                    </li>
-                    <li className="nav-item">
-                      <a href="cart.html" className="nav-link">
-                        Cart
-                      </a>
-                    </li>
-                    <li className="nav-item">
-                      <a href="checkout.html" className="nav-link">
-                        Checkout
-                      </a>
-                    </li>
-                    <li className="nav-item">
-                      <a href="success.html" className="nav-link">
-                        Success
-                      </a>
-                    </li>
-                  </ul>
-                </li>
+                    <a
+                      href="javascript:void(0)"
+                      className="dropdown-toggle nav-link"
+                    >
+                      Skills
+                    </a>
+                    <ul className="dropdown-menu list-unstyle">
+
+                      <Link to="/listening" style={{textDecoration:"none" , text:"inherit"}}>
+                      <li className="nav-item">
+                        <a  className="nav-link">
+                          Listening
+                        </a>
+                      </li>
+                      </Link>
+
+                      <Link to="/reading" style={{textDecoration:"none" , text:"inherit"}}>
+                      <li className="nav-item">
+                        <a  className="nav-link">
+                         Reading
+                        </a>
+                      </li>
+                      </Link>
+
+                    <Link to="/writing" style={{textDecoration:"none" , text:"inherit"}}>
+                      <li className="nav-item">
+                        <a  className="nav-link">
+                          Writing
+                        </a>
+                      </li>
+                      </Link>
+
+                      <Link to="/speaking" style={{textDecoration:"none" , text:"inherit"}}>
+                      <li className="nav-item">
+                        <a  className="nav-link">
+                          Speaking
+                        </a>
+                      </li>
+                      </Link>
+                      
+                       
+                    </ul>
+                  </li>
                 <li className="nav-item">
                   <a
                     href="javascript:void(0)"
