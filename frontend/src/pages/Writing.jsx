@@ -490,7 +490,7 @@ export default function Writing() {
     <section className="">
     <div className="">
       <div className="main-max-width mt-5">
-      <img src="assets/img/all-img/writing2.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
+      <img src="assets/img/all-img/writing3.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
 
       </div>
     </div>
