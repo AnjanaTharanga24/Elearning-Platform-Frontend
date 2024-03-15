@@ -550,6 +550,106 @@ export default function Listening() {
     <div className="container">
       <div className="main-max-width">
         <div className="row justify-content-center">
+
+          <div className="col-lg-4 col-sm-6">
+            <div className="single-blog-box">
+              <div className="image position-relative">
+                <a href="blog-details.html">
+                  <img src="assets/img/all-img/listening2.jpg" alt="image" />
+                </a>
+                
+              </div>
+              <div className="content">
+                <ul className="cr-items d-flex list-unstyle">
+                  <li className="mr-20">
+                    <a href="author.html">
+                      <i className="ri-chat-1-line" />
+                      <span>54 Message</span>
+                    </a>
+                  </li>
+                  <li>
+                    <i className="ri-calendar-2-line" />
+                    <span>31 December 2023</span>
+                  </li>
+                </ul>
+                <h3 className="mb-15 fs-20">
+                  <Link to="/listening-lesson-1">
+                  <a>
+                  A request from your boss                  
+                  </a>
+                  </Link>
+                </h3>
+                <p>Listen to requests from a manager to practise and improve your listening skills.</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-lg-4 col-sm-6">
+            <div className="single-blog-box">
+              <div className="image position-relative">
+                <a href="blog-details.html">
+                  <img src="assets/img/all-img/listening2.jpg" alt="image" />
+                </a>
+               
+              </div>
+              <div className="content">
+                <ul className="cr-items d-flex list-unstyle">
+                  <li className="mr-20">
+                    <a href="author.html">
+                      <i className="ri-chat-1-line" />
+                      <span>54 Message</span>
+                    </a>
+                  </li>
+                  <li>
+                    <i className="ri-calendar-2-line" />
+                    <span>31 December 2023</span>
+                  </li>
+                </ul>
+                <h3 className="mb-15 fs-20">
+                  <Link to="/listening-lesson-2">
+                  <a>
+                  A voicemail message
+                  </a>
+                  </Link>
+                </h3>
+                <p>Listen to a voicemail message and answer the questions to practise your listening skills.</p>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div className="col-lg-4 col-sm-6">
+            <div className="single-blog-box">
+              <div className="image position-relative">
+                <a href="blog-details.html">
+                  <img src="assets/img/all-img/listening2.jpg" alt="image" />
+                </a>
+               
+              </div>
+              <div className="content">
+                <ul className="cr-items d-flex list-unstyle">
+                  <li className="mr-20">
+                    <a href="author.html">
+                      <i className="ri-chat-1-line" />
+                      <span>54 Message</span>
+                    </a>
+                  </li>
+                  <li>
+                    <i className="ri-calendar-2-line" />
+                    <span>31 December 2023</span>
+                  </li>
+                </ul>
+                <h3 className="mb-15 fs-20">
+                  <a href="blog-details.html">
+                  Booking a table
+                  </a>
+                </h3>
+                <p>Listen to someone booking a table in a restaurant to practise and improve your listening skills!</p>
+              </div>
+            </div>
+          </div>
+          
           <div className="col-lg-4 col-sm-6">
             <div className="single-blog-box">
               <div className="image position-relative">
@@ -573,10 +673,10 @@ export default function Listening() {
                 </ul>
                 <h3 className="mb-15 fs-20">
                   <a href="blog-details.html">
-                    Business modeless and pricing strategies are essential.
+                  Business cards
                   </a>
                 </h3>
-                <p>This immersive course is crafted to provide participants</p>
+                <p>Listen to four people talk about their jobs to practise and improve your listening skills.</p>
               </div>
             </div>
           </div>
@@ -603,10 +703,10 @@ export default function Listening() {
                 </ul>
                 <h3 className="mb-15 fs-20">
                   <a href="blog-details.html">
-                    Business modeless and pricing strategies are essential.
+                  Finding the library
                   </a>
                 </h3>
-                <p>This immersive course is crafted to provide participants</p>
+                <p>Listen to a conversation about the university library to practise and improve your listening</p>
               </div>
             </div>
           </div>
@@ -633,100 +733,10 @@ export default function Listening() {
                 </ul>
                 <h3 className="mb-15 fs-20">
                   <a href="blog-details.html">
-                    Business modeless and pricing strategies are essential.
+                  Meeting a new team member
                   </a>
                 </h3>
-                <p>This immersive course is crafted to provide participants</p>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-4 col-sm-6">
-            <div className="single-blog-box">
-              <div className="image position-relative">
-                <a href="blog-details.html">
-                  <img src="assets/img/all-img/listening2.jpg" alt="image" />
-                </a>
-                
-              </div>
-              <div className="content">
-                <ul className="cr-items d-flex list-unstyle">
-                  <li className="mr-20">
-                    <a href="author.html">
-                      <i className="ri-chat-1-line" />
-                      <span>54 Message</span>
-                    </a>
-                  </li>
-                  <li>
-                    <i className="ri-calendar-2-line" />
-                    <span>31 December 2023</span>
-                  </li>
-                </ul>
-                <h3 className="mb-15 fs-20">
-                  <a href="blog-details.html">
-                    Business modeless and pricing strategies are essential.
-                  </a>
-                </h3>
-                <p>This immersive course is crafted to provide participants</p>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-4 col-sm-6">
-            <div className="single-blog-box">
-              <div className="image position-relative">
-                <a href="blog-details.html">
-                  <img src="assets/img/all-img/listening2.jpg" alt="image" />
-                </a>
-               
-              </div>
-              <div className="content">
-                <ul className="cr-items d-flex list-unstyle">
-                  <li className="mr-20">
-                    <a href="author.html">
-                      <i className="ri-chat-1-line" />
-                      <span>54 Message</span>
-                    </a>
-                  </li>
-                  <li>
-                    <i className="ri-calendar-2-line" />
-                    <span>31 December 2023</span>
-                  </li>
-                </ul>
-                <h3 className="mb-15 fs-20">
-                  <a href="blog-details.html">
-                    Business modeless and pricing strategies are essential.
-                  </a>
-                </h3>
-                <p>This immersive course is crafted to provide participants</p>
-              </div>
-            </div>
-          </div>
-          <div className="col-lg-4 col-sm-6">
-            <div className="single-blog-box">
-              <div className="image position-relative">
-                <a href="blog-details.html">
-                  <img src="assets/img/all-img/listening2.jpg" alt="image" />
-                </a>
-               
-              </div>
-              <div className="content">
-                <ul className="cr-items d-flex list-unstyle">
-                  <li className="mr-20">
-                    <a href="author.html">
-                      <i className="ri-chat-1-line" />
-                      <span>54 Message</span>
-                    </a>
-                  </li>
-                  <li>
-                    <i className="ri-calendar-2-line" />
-                    <span>31 December 2023</span>
-                  </li>
-                </ul>
-                <h3 className="mb-15 fs-20">
-                  <a href="blog-details.html">
-                    Business modeless and pricing strategies are essential.
-                  </a>
-                </h3>
-                <p>This immersive course is crafted to provide participants</p>
+                <p>Listen to a conversation between two new colleagues to practise your listening</p>
               </div>
             </div>
           </div>
