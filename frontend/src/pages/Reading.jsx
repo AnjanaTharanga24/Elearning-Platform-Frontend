@@ -518,34 +518,24 @@ export default function Reading() {
   
   
     {/*  Page Title Area Start*/}
-    <section className="">
-    <div className="container">
-      <div className="main-max-width">
-        {/* <div className="page-title-content" style={{marginRight:"1300px"}}>
-          <h2>Reading</h2>
-          <ul className="page-breadcrumb align-items-center list-unstyle ">
-            <li className="breadcrumb-item">
-              <a href="index.html">Home</a>
-            </li>
-            <li className="breadcrumb-item" />
-            <li className="primery-link">Blog</li>
-          </ul>
-          <div className="shape-1 moveHorizontal">
-            <img src="assets/img/icon/shape-2.svg" alt="image" />
+    <section className="page-title-area position-relative">
+        <div className="container">
+          <div className="main-max-width">
+            <div className="page-title-content">
+              <div className="shape-1 moveHorizontal">
+                <img src="assets/img/icon/shape-2.svg" alt="image" />
+              </div>
+              <div className="shape-2">
+                <img src="assets/img/icon/section-icon-1.svg" alt="image" />
+              </div>
+              <div className="shape-3 bounce">
+                <img src="assets/img/icon/section-icon-2.svg" alt="image" />
+              </div>
+            </div>
           </div>
-          <div className="shape-2">
-            <img src="assets/img/icon/section-icon-1.svg" alt="image" />
-          </div>
-          <div className="shape-3 bounce">
-            <img src="assets/img/icon/section-icon-2.svg" alt="image" />
-          </div>
-        </div> */}
+        </div>
+      </section>
 
-<img src="assets/img/all-img/readinGirl1.png" alt="image" style={{height:"500px" , width:"1000px"}}/>
-
-      </div>
-    </div>
-  </section>
   
     {/*  Page Title Area End*/}
   
