@@ -510,7 +510,7 @@ export default function Reading() {
           </div>
         </div> */}
 
-<img src="assets/img/all-img/reading1.jpg" alt="image" style={{height:"500px" , width:"1000px"}}/>
+<img src="assets/img/all-img/readinGirl1.png" alt="image" style={{height:"500px" , width:"1000px"}}/>
 
       </div>
     </div>
@@ -559,10 +559,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                      A poster at work.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read an invitation to an office event to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -597,10 +597,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    A poster for exam candidates.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read the poster outside an exam room to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -635,10 +635,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    A restaurant menu.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read a menu to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -673,10 +673,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    A study timetable.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read a study timetable for a week in summer school in England to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -711,10 +711,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    An airport departures board.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read an airport departures board to practise and improve your reading skills. </p>
                 </div>
               </div>
             </div>
@@ -749,10 +749,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    Business cards.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read four business cards to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
