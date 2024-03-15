@@ -8,6 +8,8 @@ import Listening from './pages/Listening';
 import Reading from './pages/Reading';
 import Writing from './pages/Writing';
 import Speaking from './pages/Speaking';
+import ListeningLesson1 from './sub-pages/ListeningLesson1';
+import ListeningLesson2 from './sub-pages/ListeningLesson2';
 
 
 function App() {
@@ -21,6 +23,10 @@ function App() {
           <Route exact path='/reading' element={<Reading/>}/>
           <Route exact path='/writing' element={<Writing/>}/>
           <Route exact path='/speaking' element={<Speaking/>}/>
+          <Route exact path='/listening-lesson-1' element={<ListeningLesson1/>}/>
+          <Route exact path='/listening-lesson-2' element={<ListeningLesson2/>}/>
+
+
 
 
 
