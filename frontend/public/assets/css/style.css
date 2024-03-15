@@ -3898,10 +3898,11 @@ Cart Area CSS
   Page Title
 =====================*/
 .page-title-area{
-  background-image: url(../img/banner/section-bg.png);
+  background-image: url(../img/banner/);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 100px 0px;
+ 
 }
 .page-title-content h2{
   font-size: 35px;

@@ -1,10 +1,10 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link } from "react-router-dom";
 
 export default function NavBar() {
   return (
     <div>
-         <div className="navbar-area style-one" id="navbar">
+      <div className="navbar-area style-one mb-5" id="navbar">
         <div className="navbar-top">
           <div className="container">
             <div className="main-max-width">
@@ -108,12 +108,14 @@ export default function NavBar() {
                     </a>
                     <ul className="dropdown-menu list-unstyle">
 
+                      <Link to="/">
                       <li className="nav-item">
                         <a href="index.html" className="nav-link active">
                           Home One
                         </a>
                       </li>
-                      
+                      </Link>
+
                       <li className="nav-item">
                         <a href="index-2.html" className="nav-link">
                           Home Two
@@ -161,6 +163,48 @@ export default function NavBar() {
                       </li>
                     </ul>
                   </li>
+
+                  <li className="nav-item">
+                    <a
+                      href="javascript:void(0)"
+                      className="dropdown-toggle nav-link"
+                    >
+                      Shop
+                    </a>
+                    <ul className="dropdown-menu list-unstyle">
+                      <li className="nav-item">
+                        <a href="shop.html" className="nav-link">
+                          Shop
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a href="shop-filtter.html" className="nav-link">
+                          Shop Sidebar
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a href="single-product.html" className="nav-link">
+                          Product Details
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a href="cart.html" className="nav-link">
+                          Cart
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a href="checkout.html" className="nav-link">
+                          Checkout
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a href="success.html" className="nav-link">
+                          Success
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
                   <li className="nav-item">
                     <a
                       href="javascript:void(0)"
@@ -169,65 +213,41 @@ export default function NavBar() {
                       Skills
                     </a>
                     <ul className="dropdown-menu list-unstyle">
-
-                      <Link to="/listening" style={{textDecoration:"none" , text:"inherit"}}>
-                      <li className="nav-item">
-                        <a  className="nav-link">
-                          Listening
-                        </a>
-                      </li>
+                      <Link
+                        to="/listening"
+                        style={{ textDecoration: "none", text: "inherit" }}
+                      >
+                        <li className="nav-item">
+                          <a className="nav-link">Listening</a>
+                        </li>
                       </Link>
 
-                      <Link to="/reading" style={{textDecoration:"none" , text:"inherit"}}>
-                      <li className="nav-item">
-                        <a  className="nav-link">
-                         Reading
-                        </a>
-                      </li>
+                      <Link
+                        to="/reading"
+                        style={{ textDecoration: "none", text: "inherit" }}
+                      >
+                        <li className="nav-item">
+                          <a className="nav-link">Reading</a>
+                        </li>
                       </Link>
 
-                    <Link to="/writing" style={{textDecoration:"none" , text:"inherit"}}>
-                      <li className="nav-item">
-                        <a  className="nav-link">
-                          Writing
-                        </a>
-                      </li>
+                      <Link
+                        to="/writing"
+                        style={{ textDecoration: "none", text: "inherit" }}
+                      >
+                        <li className="nav-item">
+                          <a className="nav-link">Writing</a>
+                        </li>
                       </Link>
 
-                      <Link to="/speaking" style={{textDecoration:"none" , text:"inherit"}}>
-                      <li className="nav-item">
-                        <a  className="nav-link">
-                          Speaking
-                        </a>
-                      </li>
+                      <Link
+                        to="/speaking"
+                        style={{ textDecoration: "none", text: "inherit" }}
+                      >
+                        <li className="nav-item">
+                          <a className="nav-link">Speaking</a>
+                        </li>
                       </Link>
-                      
-                       
-                    </ul>
-                  </li>
-                  <li className="nav-item">
-                    <a
-                      href="javascript:void(0)"
-                      className="dropdown-toggle nav-link"
-                    >
-                      <span>Blog</span>
-                    </a>
-                    <ul className="dropdown-menu list-unstyle">
-                      <li className="nav-item">
-                        <a href="blog.html" className="nav-link">
-                          Blog
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a href="blog-list.html" className="nav-link">
-                          Blog List
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a href="blog-details.html" className="nav-link">
-                          Blog Details
-                        </a>
-                      </li>
                     </ul>
                   </li>
                   <li className="nav-item">
@@ -339,16 +359,16 @@ export default function NavBar() {
       </div>
 
       <div
-        className="responsive-navbar offcanvas offcanvas-end border-0"
+        className="responsive-navbar offcanvas offcanvas-end border-0 bg-success "
         data-bs-backdrop="static"
         tabIndex={-1}
         id="navbarOffcanvas"
       >
         <div className="offcanvas-header">
-          <a href="index.html" className="logo d-inline-block">
+          <a href="" className="">
             <img
               className="logo-light"
-              src="assets/img/logo/logo.svg"
+              src="assets/img/all-img/writing3.jpg"
               alt="Image"
             />
           </a>
@@ -369,7 +389,7 @@ export default function NavBar() {
               </a>
               <ul className="responsive-menu-items">
                 <li>
-                  <a href="index.html" className="active">
+                  <a className="active">
                     Home One
                   </a>
                 </li>
@@ -494,5 +514,5 @@ export default function NavBar() {
         </div>
       </div>
     </div>
-  )
+  );
 }
