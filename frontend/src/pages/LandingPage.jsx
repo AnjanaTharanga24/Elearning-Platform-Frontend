@@ -17,7 +17,7 @@ export default function LandingPage() {
 
 
       {/* Hero Section Start */}
-      <div className="hero-section  position-relative">
+      <div className="hero-section hero-bg position-relative">
         <div className="container">
           <div className="main-max-width">
             <div className="hero-slider owl-carousel owl-theme owl-loaded owl-drag">
@@ -95,10 +95,10 @@ export default function LandingPage() {
                           </div>
                         </div>
                         <div className="col-lg-5">
-                          <div className="hero-image position-relative bg-danger">
+                          <div className="hero-image position-relative ">
                             <img
                               className="position-relative index-2"
-                              src=" ./images/img1.jpeg"
+                              src=" assets/img/all-img/listening-lesson-1.jpg"
                               alt="image"
                             />
                           </div>
@@ -334,7 +334,7 @@ export default function LandingPage() {
                       </div>
                     </div>
                   </div>
-                  <div className="owl-item" style={{ width: 1170 }}>
+                  <div className="owl-item " style={{ width: 1170 }}>
                     <div className="silde-item">
                       <div className="row align-items-center">
                         <div className="col-lg-7">
@@ -342,7 +342,7 @@ export default function LandingPage() {
                             <h4 className="sub-title mb-25">
                               The Leader In Online Learning
                             </h4>
-                            <h1 className="fs-50 mb-25">
+                            <h1 className="fs-50 mb-25 ">
                               Grow Your{" "}
                               <span className="gradient-style">Skills</span>{" "}
                               Advance Your Career Path.
@@ -638,6 +638,7 @@ export default function LandingPage() {
                       </div>
                     </div>
                   </div>
+
                 </div>
               </div>
               <div className="owl-nav disabled">
