@@ -1,12 +1,15 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import NavBar from '../components/NavBar'
 
 export default function Reading() {
+  
   return (
-    <div>
+  
+  <div>
        
     {/* Navbar Area Start */}
-    <div className="navbar-area" id="navbar">
+      <div className="navbar-area" id="navbar">
         <div className="navbar-top">
           <div className="container">
             <div className="main-max-width">
@@ -358,7 +361,7 @@ export default function Reading() {
     {/* Navbar Area End */}
   
     {/* Responsive Navbar Start */}
-    <div
+     <div
       className="responsive-navbar offcanvas offcanvas-end border-0"
       data-bs-backdrop="static"
       tabIndex={-1}
@@ -513,6 +516,7 @@ export default function Reading() {
         </div>
       </div>
     </div>
+    
     {/* Responsive Navbar End */}
   
   
@@ -553,7 +557,7 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
+                    <img src="assets/img/all-img/posterAtWork.jpg" alt="image" />
                   </a>
                   {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -591,7 +595,7 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
+                    <img src="assets/img/all-img/examCandidate.jpg" alt="image" />
                   </a>
                   {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -629,7 +633,7 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
+                    <img src="assets/img/all-img/resturentMenu.jpg" alt="image" />
                   </a>
                   {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -667,7 +671,7 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
+                    <img src="assets/img/all-img/study.jpg" alt="image" />
                   </a>
                   {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -697,7 +701,7 @@ export default function Reading() {
                     A study timetable.
                     </a>
                   </h3>
-                  <p>Read a study timetable for a week in summer school in England to practise and improve your reading skills.</p>
+                  <p>Read a study timetable for a school in to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -705,7 +709,7 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
+                    <img src="assets/img/all-img/Airport1.jpg" alt="image" />
                   </a>
                   {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -735,7 +739,7 @@ export default function Reading() {
                     An airport departures board.
                     </a>
                   </h3>
-                  <p>Read an airport departures board to practise and improve your reading skills. </p>
+                  <p>Read an airport departures board to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -743,7 +747,7 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
+                    <img src="assets/img/all-img/BusinessCard2.jpeg" alt="image" />
                   </a>
                   {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
@@ -1010,6 +1014,6 @@ export default function Reading() {
     </button>
   
   
-      </div>
+  </div>
   )
 }
