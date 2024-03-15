@@ -518,10 +518,10 @@ export default function Reading() {
   
   
     {/*  Page Title Area Start*/}
-    <section className="page-title-area position-relative">
+    <section className="">
     <div className="container">
       <div className="main-max-width">
-        <div className="page-title-content" style={{marginRight:"1300px"}}>
+        {/* <div className="page-title-content" style={{marginRight:"1300px"}}>
           <h2>Reading</h2>
           <ul className="page-breadcrumb align-items-center list-unstyle ">
             <li className="breadcrumb-item">
@@ -539,7 +539,10 @@ export default function Reading() {
           <div className="shape-3 bounce">
             <img src="assets/img/icon/section-icon-2.svg" alt="image" />
           </div>
-        </div>
+        </div> */}
+
+<img src="assets/img/all-img/readinGirl1.png" alt="image" style={{height:"500px" , width:"1000px"}}/>
+
       </div>
     </div>
   </section>
@@ -560,17 +563,17 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-1.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
+                   </div>  */}
+                   {/* <div className="author">
                     <a href="author.html">
-                      <img src="assets/img/all-img/blog-user-1.png" alt="image" />
-                      <span>Eleanor Pena</span>
+                      <img src="assets/img/all-img/reading1.jpg" alt="image" />
+                      <span>Lesson 1</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -587,10 +590,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                      A poster at work.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read an invitation to an office event to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -598,17 +601,17 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-2.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
+                  </div> */}
+                  {/* <div className="author">
                     <a href="author.html">
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -625,10 +628,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    A poster for exam candidates.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read the poster outside an exam room to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -636,17 +639,17 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-3.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
-                  </div>
-                  <div className="author">
+                  </div> */}
+                  {/* <div className="author">
                     <a href="author.html">
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -663,10 +666,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    A restaurant menu.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read a menu to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -674,9 +677,9 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-4.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
                   <div className="author">
@@ -684,7 +687,7 @@ export default function Reading() {
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -701,10 +704,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    A study timetable.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read a study timetable for a week in summer school in England to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
@@ -712,9 +715,9 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-5.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
                   <div className="author">
@@ -722,7 +725,7 @@ export default function Reading() {
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -739,10 +742,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    An airport departures board.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read an airport departures board to practise and improve your reading skills. </p>
                 </div>
               </div>
             </div>
@@ -750,9 +753,9 @@ export default function Reading() {
               <div className="single-blog-box">
                 <div className="image position-relative">
                   <a href="blog-details.html">
-                    <img src="assets/img/all-img/blog-6.png" alt="image" />
+                    <img src="assets/img/all-img/reading3.jpeg" alt="image" />
                   </a>
-                  <div className="cr-tag">
+                  {/* <div className="cr-tag">
                     <a href="author.html">Design</a>
                   </div>
                   <div className="author">
@@ -760,7 +763,7 @@ export default function Reading() {
                       <img src="assets/img/all-img/blog-user-1.png" alt="image" />
                       <span>Eleanor Pena</span>
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="content">
                   <ul className="cr-items d-flex list-unstyle">
@@ -777,10 +780,10 @@ export default function Reading() {
                   </ul>
                   <h3 className="mb-15 fs-20">
                     <a href="blog-details.html">
-                      Business modeless and pricing strategies are essential.
+                    Business cards.
                     </a>
                   </h3>
-                  <p>This immersive course is crafted to provide participants</p>
+                  <p>Read four business cards to practise and improve your reading skills.</p>
                 </div>
               </div>
             </div>
